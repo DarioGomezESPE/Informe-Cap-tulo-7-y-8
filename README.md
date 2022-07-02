@@ -4,7 +4,7 @@
 
 Comprender los temas 7 y 8 del libro Principios de Circuitos Eléctricos-Floyd a través de la lectura, extracción de información relevante y ejercicios con la finalidad de aprender aplicar dichos conocimientos en estudio de circuitos eléctricos.
 
-• Objetivos específicos
+• Objetivos Específicos
 
 1.- Leer y extraer la información mas importante de los temas 7 y 8.
 2.- Sintetizar en un mapa mental la información relevante extraída posteriormente en la lectura.
